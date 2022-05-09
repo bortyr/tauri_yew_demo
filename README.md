@@ -2,7 +2,7 @@
 
 Small demo of Tauri + Yew. Written using default init guides for both Tauri and Yew.
 
-To build the app use the following command:
+To build the app use the following command in src-tauri:
 ```sh 
 cargo tauri build
 ```
@@ -11,6 +11,7 @@ cargo tauri build
 
 ## Official docs
 Tauri: https://tauri.studio/guides/getting-started/beginning-tutorial
+
 Yew: https://yew.rs/docs/getting-started/introduction
 
 ## Blogs
